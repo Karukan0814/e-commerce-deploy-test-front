@@ -45,7 +45,7 @@ const HomePage = () => {
         <div className="homepage_title_container">
           <h2>{selectedCategories.length > 0 ? filterTitle : filterTitle}</h2>
         </div>
-
+てすとでぷろい
         <div className="homepage_item_container">
           <ItemFilter
             categories={categories}
